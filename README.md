@@ -77,12 +77,12 @@ From **custom CMS & APIs** to **highly interactive eCommerce** and **agency-grad
 ### 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=syed-abutalib&show_icons=true&theme=radical&hide_border=true" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=syed-abutalib&show_icons=true&theme=radical&hide_border=true" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syed-abutalib&layout=compact&theme=radical&hide_border=true" />
-</div>
+</div> -->
 
 ---
 
