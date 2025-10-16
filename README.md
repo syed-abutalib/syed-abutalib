@@ -1,73 +1,118 @@
-<!-- Profile Header -->
-<h1 align="center">👋 Hey there, I'm <span style="color:#ff7f50;">Syed Abu Talib</span></h1>
-<h3 align="center">💻 Full Stack Developer | JavaScript | Laravel | MERN | API Integrations</h3>
+<img src="banner_github.jpg" alt="GitHub Banner" width="100%" />
+
+<h1 align="center">
+  👋 Hello World! I'm <span style="color:#00bcd4;">Syed Abu Talib</span>
+</h1>
+
+<h3 align="center">
+  💻 Full Stack Developer | Creative UI/UX Designer | Web Animation Enthusiast
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=F78DA7&center=true&vCenter=true&width=600&lines=Passionate+Full+Stack+Developer;Building+Modern+Web+Apps+With+MERN+%26+Laravel;Loves+Clean+Code+%26+Smooth+UX;Always+Learning+%26+Improving+🚀" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+from+Pakistan;MERN+%2B+Laravel+Expert;Building+Modern+and+Animated+Web+Experiences;Let's+Build+Something+Extraordinary!">
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### 🚀 About Me  
 
-- 🔭 I’m currently working on **React + Laravel** e-commerce & SaaS projects  
-- 🌱 Currently learning **Next.js 15**, **Stripe APIs**, and **Cloud Deployments**  
-- ⚙️ Love working with **MERN Stack**, **JWT Auth**, **REST APIs**, and **Realtime Apps**  
-- 🧠 Strong focus on backend logic, performance, and secure integrations  
-- 💬 Ask me about **React, Node.js, Express, MongoDB, Laravel, JWT, APIs, and Linux**  
-- 🌍 Based in **Karachi, Pakistan**  
-- ⚡ Fun fact: I enjoy turning complex logic into elegant, maintainable code  
+I'm **Syed Abu Talib**, a passionate **Full Stack Developer** with a creative touch for design and web motion.  
+Since **2022**, I’ve been crafting **modern web applications** that blend clean code, smart architecture, and delightful animations.  
 
----
+I specialize in **React.js, Next.js, Node.js, Express.js, Laravel**, and **MongoDB/MySQL**, with a strong focus on UI/UX and frontend performance.  
+From **custom CMS & APIs** to **highly interactive eCommerce** and **agency-grade portfolios**, I love turning complex ideas into smooth, visually engaging digital experiences.
 
-### 🛠️ Tech Stack & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,php,laravel,tailwind,bootstrap,ubuntu,git,github,vscode,postman&theme=dark" />
-</p>
+✨ **What I Love Doing**
+- Building scalable full-stack apps using **MERN or Laravel**
+- Designing elegant UIs with **TailwindCSS, GSAP, and Framer Motion**
+- Creating seamless **user experiences** that feel alive
+- Implementing **JWT authentication & REST APIs**
+- Managing servers on **Ubuntu, Apache, and Nginx**
 
 ---
 
-### 🚀 Additional Skills
+### 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/MERN%20Stack-61DBFB?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT%20Auth-000000?style=for-the-badge&logo=jsonwebtokens" />
-  <img src="https://img.shields.io/badge/API%20Integration-FF9900?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Elementor-E3008C?style=for-the-badge&logo=elementor&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubuntu-FF6C37?style=for-the-badge&logo=ubuntu&logoColor=white" />
-</p>
+#### 🧠 Languages & Core
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+#### ⚛️ Frontend
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![GSAP](https://img.shields.io/badge/gsap-%2388CE02.svg?style=for-the-badge&logo=greensock&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-%23D30C7B.svg?style=for-the-badge&logo=elementor&logoColor=white)
+
+#### ⚙️ Backend
+![NodeJS](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![API](https://img.shields.io/badge/REST%20API-%23000000.svg?style=for-the-badge&logo=api&logoColor=white)
+
+#### 🧩 Database & DevOps
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+
+#### 🎨 Design & Tools
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Stats & Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syed-abutalib&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syed-abutalib&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=syed-abutalib&show_icons=true&theme=radical&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=syed-abutalib&theme=radical&hide_border=true" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syed-abutalib&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
+<div align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syed-abutalib&layout=compact&theme=radical&hide_border=true" />
+</div>
+
+---
+
+### ✨ Random Dev Quote
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+### 🐍 GitHub Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 
 ---
 
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:syedabutalib.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/syed-abutalib"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/syed-abutalib"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://syedabutalib-projects.glamourbeautiful.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/syedabutalib" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/syedabutalib.dev" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:syedabutalib.dev@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://syedabutalib-projects.glamourbeautiful.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" /></a>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://github.com/syed-abutalib/syed-abutalib/blob/main/dev-banner.gif" alt="Developer Banner" width="80%" />
-</p>
-
-<p align="center">
-  <em>✨ “Code with logic, design with clarity, and deliver with passion.” ✨</em>
-</p>
+<h3 align="center">
+✨ "Code Smart. Design Beautiful. Deploy Fast." ✨
+</h3>
