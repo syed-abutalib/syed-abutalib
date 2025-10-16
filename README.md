@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-  💻 Full Stack Developer | Creative UI/UX Designer | Web Animation Enthusiast
+  💻 Full Stack Developer | Mern Stack | Web Animation Enthusiast
 </h3>
 
 <p align="center">
@@ -108,7 +108,7 @@ From **custom CMS & APIs** to **highly interactive eCommerce** and **agency-grad
   <a href="https://www.linkedin.com/in/syedabutalib" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/syedabutalib.dev" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="mailto:syedabutalib.dev@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://syedabutalib-projects.glamourbeautiful.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" /></a>
+  <a href="https://abutalib.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" /></a>
 </p>
 
 ---
