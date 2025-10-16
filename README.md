@@ -1,4 +1,4 @@
-<img src="banner_github.jpg" alt="GitHub Banner" width="100%" />
+<img src="dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif" alt="GitHub Banner" width="100%" />
 
 <h1 align="center">
   👋 Hello World! I'm <span style="color:#00bcd4;">Syed Abu Talib</span>
